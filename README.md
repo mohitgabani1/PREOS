@@ -2,4 +2,4 @@
 
 NOTE: Add composition in the Excel file -- sheet "Composition"
 
-If new component to be added then it shpuld be added in the both excel sheet - "Componentproperties" and "Composition" along with all the properties. 
+If new component to be added then it should be added in the both excel sheet - "Componentproperties" and "Composition" along with all the properties. 
